@@ -21,7 +21,7 @@ Weatherbit API jest interfejsem zwracającym dane pogodowe oraz jest porównywny
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/PiotrSierant/OMNI_translateAPP.git
+   git clone https://github.com/PiotrSierant/WeatherApp-warsztat.git
    ```
 2. Install NPM packages and start project
 
